@@ -11,7 +11,7 @@ main {
 #container-sobre h1 {
     padding-left: 48px;
     padding-top: 130px;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
 }
 
 #container-sobre p {
@@ -24,7 +24,7 @@ main {
 }
 
 #container-sobre h2 {
-    margin-top: 100px;
+    margin-top: 70px;
     margin-bottom: 100px;
     padding-left: 48px;
 }
